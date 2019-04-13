@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "reservations activity",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+ },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -18,3 +21,4 @@
   },
   "homepage": "https://github.com/merpig/reservations#readme"
 }
+
